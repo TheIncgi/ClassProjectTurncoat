@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Turncoat</string>
+    <string name="new_single">New Single Player</string>
+    <string name="new_multi">New Multiplayer</string>
+    <string name="stats">Stats</string>
+    <string name="tile_description">tile</string>
+    <string name="gameTitle" >Turncoat</string>
+    <string name="turn_indicator">Turn Indicator</string>
+    <string name="demo_mode">Demo Mode [Auto]</string>
+</resources>
